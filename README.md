@@ -1,2 +1,2 @@
 # Image-Forgery-Detection
-Different approaches to detect digital tampering in images.
+This method is based on error level analysis of images passing through a CNN to classify an image as authentic or forged.
